@@ -4,7 +4,7 @@
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
 
-This is a full stack web application that uses the power of MongoDB to create a noSQL database that stores user inpoutted information from the front end pages.
+This is a full stack web application that uses the power of MongoDB to create a noSQL database that stores user inputted information from the front end pages. More specifically, this application is designed for building custom pizza recipies, and collaborating with a community of other pizza enthusiasts to create the ultimate pizza.
 
 
 # Table of Contents 
@@ -141,7 +141,7 @@ getAllPizza(req, res) {
   
 ## Usage:
 
-This is a full stack web application for use as building custom pizza recipies, and collaborating with a community of other pizza enthusiasts to create the ultimate pizza. 
+This is a full stack web application for building custom pizza recipies, and collaborating with a community of other pizza enthusiasts to create the ultimate pizza. 
 
 ## License:
 For more information about licenses, please visit:
